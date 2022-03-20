@@ -1,0 +1,19 @@
+1.Whimsical Toys Inc (WTI) needs to record the names  of all its employees.  Every  month, an employee 
+  will be chosen at random from these  records to receive  a free toy.
+
+Ans: We can use List because collections has functionality that it may choose random item from the list.
+
+2.WTI has decided that each new product will be named after an employee  but only first names  will be 
+  used,  and each name will be used  only once. Prepare  a list of unique  first names.
+
+Ans: We will use Set because collections set has functionality to take item at once only.
+
+3.WTI decides that it only wants to use  the most popular names  for its toys. Count up the number of
+  employees  who have each first name.
+
+Ans: We will use Map because we can store key value pair and can calculate count for each employee.
+
+4.WTI acquires  season tickets  for the local lacrosse  team, to be shared by employees.  Create  a 
+  waiting list for this popular sport.
+
+Ans: We will use Queue because we can create a waiting list according to that we can use add and remove method.
